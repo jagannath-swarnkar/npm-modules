@@ -1,10 +1,9 @@
 {
   "name": "react-tuck-header",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper to make a piece of component to tuck at header while scrolling",
-  "author": "jagannath-mobifyi",
+  "author": "jagannath-swarnkar",
   "license": "MIT",
-  "repository": "jagannath-mobifyi/react-tuck-header",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -26,6 +25,16 @@
   "peerDependencies": {
     "react": "^16.0.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "git+https://jagannath-swarnkar/npm-modules"
+	},
+  "homepage": "git+https://jagannath-swarnkar/npm-modules/tree/master/react-tucked-header",
+	"keywords": [
+		"zendesk",
+		"react",
+		"appscrip"
+	],
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
